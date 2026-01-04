@@ -1,0 +1,1478 @@
+{
+    "asbu-ebys": {
+        "name": "Ankara Sosyal Bilimler Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/asbu-ebys "
+    },
+    "kaeu-ebys": {
+        "name": "Kırşehir Ahi Evran Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kaeu-ebys "
+    },
+    "biruni-universitesi-ebys": {
+        "name": "Biruni Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/biruni-universitesi-ebys "
+    },
+    "munzur-universitesi-ebys": {
+        "name": "Munzur Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/munzur-universitesi-ebys "
+    },
+    "trabzon-universitesi-ebys": {
+        "name": "Trabzon Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/trabzon-universitesi-ebys "
+    },
+    "msgs-ebys": {
+        "name": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/msgs-ebys "
+    },
+    "ankara-medipol-universitesi-ebys": {
+        "name": "Ankara Medipol Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ankara-medipol-universitesi-ebys "
+    },
+    "sakarya-universitesi-ebys": {
+        "name": "Sakarya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sakarya-universitesi-ebys "
+    },
+    "ardahan-universitesi-ebys": {
+        "name": "Ardahan Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ardahan-universitesi-ebys "
+    },
+    "bilecik-seyh-edebali-universitesi-ebys": {
+        "name": "Bilecik Şeyh Edebali Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bilecik-seyh-edebali-universitesi-ebys "
+    },
+    "rtuk-ebys": {
+        "name": "Radyo ve Televizyon Üst Kurulu",
+        "url": "https://www.turkiye.gov.tr/rtuk-ebys "
+    },
+    "kiyi-emniyeti-ebys": {
+        "name": "Kıyı Emniyeti GM",
+        "url": "https://www.turkiye.gov.tr/kiyi-emniyeti-ebys "
+    },
+    "kahramanmaras-istiklal-uni-ebys": {
+        "name": "Kahramanmaraş İstiklal Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kahramanmaras-istiklal-uni-ebys "
+    },
+    "kadir-has-universitesi-ebys": {
+        "name": "Kadir Has Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kadir-has-universitesi-ebys "
+    },
+    "samsun-universitesi-ebys": {
+        "name": "Samsun Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/samsun-universitesi-ebys "
+    },
+    "kgmvds-ebys": {
+        "name": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu",
+        "url": "https://www.turkiye.gov.tr/kgmvds-ebys "
+    },
+    "artvin-coruh-universitesi-ebys": {
+        "name": "Artvin Çoruh Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/artvin-coruh-universitesi-ebys "
+    },
+    "bahcesehir-universitesi-ebys": {
+        "name": "Bahçeşehir Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bahcesehir-universitesi-ebys "
+    },
+    "ozyegin-universitesi-ebys": {
+        "name": "Özyeğin Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ozyegin-universitesi-ebys "
+    },
+    "istanbul-okan-universitesi-ebys": {
+        "name": "İstanbul Okan Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-okan-universitesi-ebys "
+    },
+    "roketsan-ebys": {
+        "name": "Roketsan Roket Sanayi ve Ticaret A.Ş GM",
+        "url": "https://www.turkiye.gov.tr/roketsan-ebys "
+    },
+    "turk-hava-kurumu-universitesi-ebys": {
+        "name": "Türk Hava Kurumu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/turk-hava-kurumu-universitesi-ebys "
+    },
+    "tmsf-ebys": {
+        "name": "Tasarruf Mevduatı Sigorta Fonu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tmsf-ebys "
+    },
+    "avcilar-belediyesi-ebys": {
+        "name": "Avcılar Belediyesi",
+        "url": "https://www.turkiye.gov.tr/avcilar-belediyesi-ebys "
+    },
+    "suski-ebys": {
+        "name": "Şanlıurfa Su ve Kanalizasyon İdaresi GM",
+        "url": "https://www.turkiye.gov.tr/suski-ebys "
+    },
+    "alanya-belediyesi-ebys-basvuru": {
+        "name": "Alanya Belediyesi",
+        "url": "https://www.turkiye.gov.tr/alanya-belediyesi-ebys-basvuru "
+    },
+    "selcuklu-belediyesi-ebys": {
+        "name": "Selçuklu Belediyesi",
+        "url": "https://www.turkiye.gov.tr/selcuklu-belediyesi-ebys "
+    },
+    "cankiri-karatekin-universitesi-ebys": {
+        "name": "Çankırı Karatekin Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/cankiri-karatekin-universitesi-ebys "
+    },
+    "istanbul-enerji-sanayi-ticaret-ebys": {
+        "name": "İstanbul Enerji Sanayi ve Ticaret AŞ",
+        "url": "https://www.turkiye.gov.tr/istanbul-enerji-sanayi-ticaret-ebys "
+    },
+    "aatbvt-ebys": {
+        "name": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/aatbvt-ebys "
+    },
+    "igdas-ebys": {
+        "name": "İstanbul Gaz Dağıtım Sanayi ve Ticaret A.Ş.",
+        "url": "https://www.turkiye.gov.tr/igdas-ebys "
+    },
+    "oka-ebys": {
+        "name": "Orta Karadeniz Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/oka-ebys "
+    },
+    "bornova-belediyesi-ebys": {
+        "name": "Bornova Belediyesi",
+        "url": "https://www.turkiye.gov.tr/bornova-belediyesi-ebys "
+    },
+    "izmir-demokrasi-universitesi-ebys": {
+        "name": "İzmir Demokrasi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/izmir-demokrasi-universitesi-ebys "
+    },
+    "cbddo-ebys": {
+        "name": "Cumhurbaşkanlığı Dijital Dönüşüm Ofisi Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/cbddo-ebys "
+    },
+    "develi-belediyesi-ebys": {
+        "name": "Develi Belediyesi",
+        "url": "https://www.turkiye.gov.tr/develi-belediyesi-ebys "
+    },
+    "istanbul-kent-universitesi-ebys": {
+        "name": "İstanbul Kent Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-kent-universitesi-ebys "
+    },
+    "ksvt-ebys": {
+        "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ksvt-ebys "
+    },
+    "belpa-ebys": {
+        "name": "Bel-Pa Ankara Eğitim Sağlık Hizmetleri İnşaat Enerji Gıda Temizlik İthalat İhracat Ticaret A.Ş.",
+        "url": "https://www.turkiye.gov.tr/belpa-ebys "
+    },
+    "kgvt-ebys": {
+        "name": "Konya Gıda ve Tarım Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kgvt-ebys "
+    },
+    "enerji-ebys": {
+        "name": "Enerji ve Tabii Kaynaklar Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/enerji-ebys "
+    },
+    "cevre-ve-sehircilik-elektronik-belge-yonetim-sistemi-evrak-dogrulama": {
+        "name": "Çevre, Şehircilik ve İklim Değişikliği Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/cevre-ve-sehircilik-elektronik-belge-yonetim-sistemi-evrak-dogrulama "
+    },
+    "adapazari-belediyesi-ebys": {
+        "name": "Adapazarı Belediyesi",
+        "url": "https://www.turkiye.gov.tr/adapazari-belediyesi-ebys "
+    },
+    "trabzon-ortahisar-belediyesi-ebys": {
+        "name": "Trabzon Ortahisar Belediyesi",
+        "url": "https://www.turkiye.gov.tr/trabzon-ortahisar-belediyesi-ebys "
+    },
+    "cankaya-universitesi-ebys": {
+        "name": "Çankaya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/cankaya-universitesi-ebys "
+    },
+    "cka-ebys": {
+        "name": "Çukurova Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/cka-ebys "
+    },
+    "oran-ebys": {
+        "name": "Orta Anadolu Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/oran-ebys "
+    },
+    "zafer-ebys": {
+        "name": "Zafer Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/zafer-ebys "
+    },
+    "sumer-holding-ebys": {
+        "name": "Sümer Holding A.Ş. GM",
+        "url": "https://www.turkiye.gov.tr/sumer-holding-ebys "
+    },
+    "yunusemre-belediyesi-ebys": {
+        "name": "Yunusemre Belediyesi",
+        "url": "https://www.turkiye.gov.tr/yunusemre-belediyesi-ebys "
+    },
+    "mus-alparslan-universitesi-elektronik-belge-yonetim-sistemi-evrak-dogrulama": {
+        "name": "Muş Alparslan Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/mus-alparslan-universitesi-elektronik-belge-yonetim-sistemi-evrak-dogrulama "
+    },
+    "avrasya-universitesi-ebys": {
+        "name": "Avrasya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/avrasya-universitesi-ebys "
+    },
+    "sabanci-universitesi-sunum-ebys": {
+        "name": "Sabancı Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sabanci-universitesi-sunum-ebys "
+    },
+    "mevka-ebys": {
+        "name": "Mevlana Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/mevka-ebys "
+    },
+    "golcuk-belediyesi-ebys": {
+        "name": "Gölcük Belediyesi",
+        "url": "https://www.turkiye.gov.tr/golcuk-belediyesi-ebys "
+    },
+    "kudaka-ebys": {
+        "name": "Kuzeydoğu Anadolu Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/kudaka-ebys "
+    },
+    "abb-ebys": {
+        "name": "Ankara Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/abb-ebys "
+    },
+    "doka-ebys": {
+        "name": "Doğu Karadeniz Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/doka-ebys "
+    },
+    "istun-ebys": {
+        "name": "İstanbul Sağlık ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istun-ebys "
+    },
+    "izmir-kavram-myo-ebys": {
+        "name": "İzmir Kavram Meslek Yüksekokulu",
+        "url": "https://www.turkiye.gov.tr/izmir-kavram-myo-ebys "
+    },
+    "ted-universitesi-ebys": {
+        "name": "TED Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ted-universitesi-ebys "
+    },
+    "erbaa-belediyesi-ebys": {
+        "name": "Erbaa Belediyesi",
+        "url": "https://www.turkiye.gov.tr/erbaa-belediyesi-ebys "
+    },
+    "bitlis-belediyesi-ebys": {
+        "name": "Bitlis Belediyesi",
+        "url": "https://www.turkiye.gov.tr/bitlis-belediyesi-ebys "
+    },
+    "sirnak-belediyesi-ebys": {
+        "name": "Şırnak Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sirnak-belediyesi-ebys "
+    },
+    "erzurum-teknik-universitesi-ebys": {
+        "name": "Erzurum Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/erzurum-teknik-universitesi-ebys "
+    },
+    "baka-ebys": {
+        "name": "Batı Akdeniz Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/baka-ebys "
+    },
+    "atasehir-adiguzel-myo-ebys": {
+        "name": "Ataşehir Adıgüzel Meslek Yüksekokulu",
+        "url": "https://www.turkiye.gov.tr/atasehir-adiguzel-myo-ebys "
+    },
+    "cag-universitesi-ebys": {
+        "name": "Çağ Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/cag-universitesi-ebys "
+    },
+    "sirnak-universitesi-ebys": {
+        "name": "Şırnak Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sirnak-universitesi-ebys "
+    },
+    "ifm-ebys": {
+        "name": "İstanbul Finans Merkezi",
+        "url": "https://www.turkiye.gov.tr/ifm-ebys "
+    },
+    "kuzka-ebys": {
+        "name": "Kuzey Anadolu Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/kuzka-ebys "
+    },
+    "kayseri-ulasim-ebys": {
+        "name": "Kayseri Ulaşım A.Ş",
+        "url": "https://www.turkiye.gov.tr/kayseri-ulasim-ebys "
+    },
+    "burdur-belediyesi-ebys": {
+        "name": "Burdur Belediyesi",
+        "url": "https://www.turkiye.gov.tr/burdur-belediyesi-ebys "
+    },
+    "bilkent-universitesi-ebys": {
+        "name": "İhsan Doğramacı Bilkent Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bilkent-universitesi-ebys "
+    },
+    "harran-universitesi-elektronik-belge-yonetim-sistemi-evrak-dogrulama": {
+        "name": "Harran Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/harran-universitesi-elektronik-belge-yonetim-sistemi-evrak-dogrulama "
+    },
+    "turk-alman-universitesi-ebys": {
+        "name": "Türk-Alman Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/turk-alman-universitesi-ebys "
+    },
+    "comu-ebys": {
+        "name": "Çanakkale Onsekiz Mart Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/comu-ebys "
+    },
+    "dbu-ebys": {
+        "name": "Demiroğlu Bilim Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/dbu-ebys "
+    },
+    "ergene-belediyesi-ebys": {
+        "name": "Ergene Belediyesi",
+        "url": "https://www.turkiye.gov.tr/ergene-belediyesi-ebys "
+    },
+    "afsu-ebys": {
+        "name": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/afsu-ebys "
+    },
+    "dika-ebys": {
+        "name": "Dicle Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/dika-ebys "
+    },
+    "kilis-7-aralik-universitesi-ebys": {
+        "name": "Kilis 7 Aralık Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kilis-7-aralik-universitesi-ebys "
+    },
+    "kayseri-universitesi-ebys": {
+        "name": "Kayseri Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kayseri-universitesi-ebys "
+    },
+    "bitlis-eren-universitesi-ebys": {
+        "name": "Bitlis Eren Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bitlis-eren-universitesi-ebys "
+    },
+    "ankara-kalkinma-ajansi-ebys": {
+        "name": "Ankara Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/ankara-kalkinma-ajansi-ebys "
+    },
+    "kultur-ve-turizm-catab-e-dilekce": {
+        "name": "Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/kultur-ve-turizm-catab-e-dilekce "
+    },
+    "tdi-ebys": {
+        "name": "Türkiye Denizcilik İşletmeleri A.Ş.",
+        "url": "https://www.turkiye.gov.tr/tdi-ebys "
+    },
+    "duzce-universitesi-ebys": {
+        "name": "Düzce Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/duzce-universitesi-ebys "
+    },
+    "amasya-universitesi-ebys": {
+        "name": "Amasya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/amasya-universitesi-ebys "
+    },
+    "tju-ebys": {
+        "name": "Türk-Japon Bilim ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/tju-ebys "
+    },
+    "ufuk-universitesi-ebys": {
+        "name": "Ufuk Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ufuk-universitesi-ebys "
+    },
+    "eyyubiye-belediyesi-ebys": {
+        "name": "Eyyübiye Belediyesi",
+        "url": "https://www.turkiye.gov.tr/eyyubiye-belediyesi-ebys "
+    },
+    "karamursel-belediyesi-ebys": {
+        "name": "Karamürsel Belediyesi",
+        "url": "https://www.turkiye.gov.tr/karamursel-belediyesi-ebys "
+    },
+    "usak-ebys": {
+        "name": "Uşak Belediyesi",
+        "url": "https://www.turkiye.gov.tr/usak-ebys "
+    },
+    "kocasinan-belediyesi-ebys": {
+        "name": "Kocasinan Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kocasinan-belediyesi-ebys "
+    },
+    "mto-ebys": {
+        "name": "Malatya Turgut Özal Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/mto-ebys "
+    },
+    "corlu-belediyesi-ebys": {
+        "name": "Çorlu Belediyesi",
+        "url": "https://www.turkiye.gov.tr/corlu-belediyesi-ebys "
+    },
+    "ego-ebys": {
+        "name": "EGO GM",
+        "url": "https://www.turkiye.gov.tr/ego-ebys "
+    },
+    "tpotc-ebys": {
+        "name": "Turkish Petroleum Off-Shore Technology Center Anonim Şirketi",
+        "url": "https://www.turkiye.gov.tr/tpotc-ebys "
+    },
+    "esb-ebys": {
+        "name": "Erişim Sağlayıcıları Birliği",
+        "url": "https://www.turkiye.gov.tr/esb-ebys "
+    },
+    "cumhuriyet-universitesi-ebys": {
+        "name": "Sivas Cumhuriyet Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/cumhuriyet-universitesi-ebys "
+    },
+    "milli-saraylar-idaresi-baskanligi-ebys": {
+        "name": "Milli Saraylar İdaresi Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/milli-saraylar-idaresi-baskanligi-ebys "
+    },
+    "eskisehir-teknik-universitesi-ebys": {
+        "name": "Eskişehir Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/eskisehir-teknik-universitesi-ebys "
+    },
+    "inegol-belediyesi-e-dilekce": {
+        "name": "İnegöl Belediyesi",
+        "url": "https://www.turkiye.gov.tr/inegol-belediyesi-e-dilekce "
+    },
+    "hasan-kalyoncu-universitesi-ebys": {
+        "name": "Hasan Kalyoncu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/hasan-kalyoncu-universitesi-ebys "
+    },
+    "sbtu-ebys": {
+        "name": "Sivas Bilim Ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sbtu-ebys "
+    },
+    "istanbul-galata-universitesi-ebys": {
+        "name": "İstanbul Galata Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-galata-universitesi-ebys "
+    },
+    "bil-ebys": {
+        "name": "Botaş International GM",
+        "url": "https://www.turkiye.gov.tr/bil-ebys "
+    },
+    "asfat-ebys": {
+        "name": "Askeri Fabrika ve Tersane İşletme A.Ş.",
+        "url": "https://www.turkiye.gov.tr/asfat-ebys "
+    },
+    "sayistay-ebys": {
+        "name": "Sayıştay Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/sayistay-ebys "
+    },
+    "yuregir-belediyesi-ebys": {
+        "name": "Yüreğir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/yuregir-belediyesi-ebys "
+    },
+    "tbb-ebys": {
+        "name": "Trabzon Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/tbb-ebys "
+    },
+    "basaksehir-belediyesi-ebys": {
+        "name": "Başakşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/basaksehir-belediyesi-ebys "
+    },
+    "msvk-ebys": {
+        "name": "Muğla Su ve Kanalizasyon İdaresi GM",
+        "url": "https://www.turkiye.gov.tr/msvk-ebys "
+    },
+    "igdir-belediyesi-ebys": {
+        "name": "Iğdır Belediyesi",
+        "url": "https://www.turkiye.gov.tr/igdir-belediyesi-ebys "
+    },
+    "luleburgaz-belediyesi-ebys": {
+        "name": "Lüleburgaz Belediyesi",
+        "url": "https://www.turkiye.gov.tr/luleburgaz-belediyesi-ebys "
+    },
+    "bingol-belediyesi-ebys": {
+        "name": "Bingöl Belediyesi",
+        "url": "https://www.turkiye.gov.tr/bingol-belediyesi-ebys "
+    },
+    "gonen-belediyesi-ebys": {
+        "name": "Balıkesir Gönen Belediyesi",
+        "url": "https://www.turkiye.gov.tr/gonen-belediyesi-ebys "
+    },
+    "istka-ebys": {
+        "name": "İstanbul Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/istka-ebys "
+    },
+    "hakkari-universitesi-ebys": {
+        "name": "Hakkari Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/hakkari-universitesi-ebys "
+    },
+    "balikesir-universitesi-ebys": {
+        "name": "Balıkesir Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/balikesir-universitesi-ebys "
+    },
+    "osmaniye-korkut-ata-universitesi-ebys": {
+        "name": "Osmaniye Korkut Ata Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/osmaniye-korkut-ata-universitesi-ebys "
+    },
+    "tbmm-ebys": {
+        "name": "TBMM Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tbmm-ebys "
+    },
+    "ibn-haldun-universitesi-ebys": {
+        "name": "İbn Haldun Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ibn-haldun-universitesi-ebys "
+    },
+    "vyy-ebys": {
+        "name": "Van Yüzüncü Yıl Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/vyy-ebys "
+    },
+    "thk-ebys": {
+        "name": "Türk Hava Kurumu",
+        "url": "https://www.turkiye.gov.tr/thk-ebys "
+    },
+    "eby-ebys": {
+        "name": "Erzincan Binali Yıldırım Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/eby-ebys "
+    },
+    "cfcu-ebys": {
+        "name": "Merkezi Finans ve İhale Birimi",
+        "url": "https://www.turkiye.gov.tr/cfcu-ebys "
+    },
+    "gmka-ebys": {
+        "name": "Güney Marmara Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/gmka-ebys "
+    },
+    "galatasaray-universitesi-ebys": {
+        "name": "Galatasaray Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/galatasaray-universitesi-ebys "
+    },
+    "tcddteknik-ebys": {
+        "name": "TCDD Teknik Mühendislik ve Müşavirlik A.Ş.",
+        "url": "https://www.turkiye.gov.tr/tcddteknik-ebys "
+    },
+    "fenerbahce-universitesi-ebys": {
+        "name": "Fenerbahçe Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/fenerbahce-universitesi-ebys "
+    },
+    "esogu-ebys": {
+        "name": "Eskişehir Osmangazi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/esogu-ebys "
+    },
+    "maltepe-universitesi-ebys": {
+        "name": "Maltepe Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/maltepe-universitesi-ebys "
+    },
+    "istanbul-rumeli-universitesi-ebys": {
+        "name": "İstanbul Rumeli Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-rumeli-universitesi-ebys "
+    },
+    "iyte-ebys": {
+        "name": "İzmir Yüksek Teknoloji Enstitüsü",
+        "url": "https://www.turkiye.gov.tr/iyte-ebys "
+    },
+    "uskudar-universitesi-ebys": {
+        "name": "Üsküdar Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/uskudar-universitesi-ebys "
+    },
+    "abdullah-gul-universitesi-ebys": {
+        "name": "Abdullah Gül Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/abdullah-gul-universitesi-ebys "
+    },
+    "piri-reis-universitesi-ebys": {
+        "name": "Piri Reis Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/piri-reis-universitesi-ebys "
+    },
+    "atlas-universitesi-ebys": {
+        "name": "İstanbul Atlas Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/atlas-universitesi-ebys "
+    },
+    "sinop-universitesi-ebys": {
+        "name": "Sinop Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sinop-universitesi-ebys "
+    },
+    "bandirma-onyedi-eylul-universitesi-ebys": {
+        "name": "Bandırma Onyedi Eylül Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bandirma-onyedi-eylul-universitesi-ebys "
+    },
+    "baskent-universitesi-ebys": {
+        "name": "Başkent Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/baskent-universitesi-ebys "
+    },
+    "turasas-ebys": {
+        "name": "Türkiye Raylı Sistem Araçları Sanayi A.Ş.",
+        "url": "https://www.turkiye.gov.tr/turasas-ebys "
+    },
+    "ytu-ebys": {
+        "name": "Yıldız Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ytu-ebys "
+    },
+    "izu-ebys": {
+        "name": "İstanbul Sabahattin Zaim Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/izu-ebys "
+    },
+    "hitit-universitesi-ebys": {
+        "name": "Hitit Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/hitit-universitesi-ebys "
+    },
+    "istanbul-medeniyet-universitesi-ebys": {
+        "name": "İstanbul Medeniyet Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-medeniyet-universitesi-ebys "
+    },
+    "dilovasi-belediyesi-ebys": {
+        "name": "Dilovası Belediyesi",
+        "url": "https://www.turkiye.gov.tr/dilovasi-belediyesi-ebys "
+    },
+    "ordu-buyuksehir-belediyesi-ebys": {
+        "name": "Ordu Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/ordu-buyuksehir-belediyesi-ebys "
+    },
+    "fatih-belediyesi-ebys": {
+        "name": "Fatih Belediyesi",
+        "url": "https://www.turkiye.gov.tr/fatih-belediyesi-ebys "
+    },
+    "zeytinburnu-belediyesi-ebys": {
+        "name": "Zeytinburnu Belediyesi",
+        "url": "https://www.turkiye.gov.tr/zeytinburnu-belediyesi-ebys "
+    },
+    "sivas-belediyesi-ebys": {
+        "name": "Sivas Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sivas-belediyesi-ebys "
+    },
+    "aliaga-belediyesi-ebys": {
+        "name": "Aliağa Belediyesi",
+        "url": "https://www.turkiye.gov.tr/aliaga-belediyesi-ebys "
+    },
+    "sultanbeyli-belediyesi-ebys": {
+        "name": "Sultanbeyli Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sultanbeyli-belediyesi-ebys "
+    },
+    "agri-belediyesi-ebys": {
+        "name": "Ağrı Belediyesi",
+        "url": "https://www.turkiye.gov.tr/agri-belediyesi-ebys "
+    },
+    "kagithane-belediyesi-ebys": {
+        "name": "Kağıthane Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kagithane-belediyesi-ebys "
+    },
+    "izsu-ebys": {
+        "name": "İzmir Su ve Kanalizasyon İdaresi GM",
+        "url": "https://www.turkiye.gov.tr/izsu-ebys "
+    },
+    "dhmi-ebys": {
+        "name": "Devlet Hava Meydanları İşletmesi GM",
+        "url": "https://www.turkiye.gov.tr/dhmi-ebys "
+    },
+    "yokak-ebys": {
+        "name": "Yükseköğretim Kalite Kurulu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/yokak-ebys "
+    },
+    "ktb-ebys": {
+        "name": "Kültür ve Turizm Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ktb-ebys "
+    },
+    "nisantasi-universitesi-ebys": {
+        "name": "İstanbul Nişantaşı Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/nisantasi-universitesi-ebys "
+    },
+    "gazi-universitesi-ebys": {
+        "name": "Gazi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/gazi-universitesi-ebys "
+    },
+    "istanbul-bilgi-universitesi-ebys": {
+        "name": "İstanbul Bilgi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-bilgi-universitesi-ebys "
+    },
+    "haci-bayram-veli-universitesi-ebys": {
+        "name": "Ankara Hacı Bayram Veli Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/haci-bayram-veli-universitesi-ebys "
+    },
+    "ostim-teknik-universitesi-ebys": {
+        "name": "OSTİM Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ostim-teknik-universitesi-ebys "
+    },
+    "bddk-ebys": {
+        "name": "Bankacılık Düzenleme ve Denetleme Kurumu",
+        "url": "https://www.turkiye.gov.tr/bddk-ebys "
+    },
+    "kocaeli-universitesi-ebys": {
+        "name": "Kocaeli Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kocaeli-universitesi-ebys "
+    },
+    "bulent-ecevit-universitesi-ebys": {
+        "name": "Zonguldak Bülent Ecevit Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bulent-ecevit-universitesi-ebys "
+    },
+    "tmo-ebys": {
+        "name": "Toprak Mahsulleri Ofisi",
+        "url": "https://www.turkiye.gov.tr/tmo-ebys "
+    },
+    "karabuk-universitesi-ebys": {
+        "name": "Karabük Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/karabuk-universitesi-ebys "
+    },
+    "devlet-su-isleri-ebys": {
+        "name": "Devlet Su İşleri GM",
+        "url": "https://www.turkiye.gov.tr/devlet-su-isleri-ebys "
+    },
+    "ybu-ebys": {
+        "name": "Ankara Yıldırım  Beyazıt Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ybu-ebys "
+    },
+    "altinbas-universitesi-ebys": {
+        "name": "Altınbaş Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/altinbas-universitesi-ebys "
+    },
+    "kirklareli-universitesi-ebys": {
+        "name": "Kırklareli Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kirklareli-universitesi-ebys "
+    },
+    "ikc-ebys": {
+        "name": "İzmir Katip Çelebi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ikc-ebys "
+    },
+    "fsm-ebys": {
+        "name": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/fsm-ebys "
+    },
+    "turkiye-seker-fabrikalari-ebys": {
+        "name": "Türkiye Şeker Fabrikaları A.Ş",
+        "url": "https://www.turkiye.gov.tr/turkiye-seker-fabrikalari-ebys "
+    },
+    "ttkkb-ebys": {
+        "name": "Türkiye Tarım Kredi Kooperatifleri Merkez Birliği GM",
+        "url": "https://www.turkiye.gov.tr/ttkkb-ebys "
+    },
+    "ayk-ebys": {
+        "name": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ayk-ebys "
+    },
+    "turkiye-noterler-birligi-ebys": {
+        "name": "Türkiye Noterler Birliği",
+        "url": "https://www.turkiye.gov.tr/turkiye-noterler-birligi-ebys "
+    },
+    "botas-ebys": {
+        "name": "Boru Hatları İle Petrol Taşıma A.Ş. GM",
+        "url": "https://www.turkiye.gov.tr/botas-ebys "
+    },
+    "tccb-ebys": {
+        "name": "Cumhurbaşkanlığı",
+        "url": "https://www.turkiye.gov.tr/tccb-ebys "
+    },
+    "ytm-ebys": {
+        "name": "Yatırımcı Tazmin Merkezi",
+        "url": "https://www.turkiye.gov.tr/ytm-ebys "
+    },
+    "sgk-ebys": {
+        "name": "Sosyal Güvenlik Kurumu",
+        "url": "https://www.turkiye.gov.tr/sgk-ebys "
+    },
+    "tubitak-ebys": {
+        "name": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK)",
+        "url": "https://www.turkiye.gov.tr/tubitak-ebys "
+    },
+    "istanbul-arel-universitesi-ebys": {
+        "name": "İstanbul Arel Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-arel-universitesi-ebys "
+    },
+    "kafkas-universitesi-ebys": {
+        "name": "Kafkas Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kafkas-universitesi-ebys "
+    },
+    "btu-ebys": {
+        "name": "Bursa Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/btu-ebys "
+    },
+    "batman-universitesi-ebys": {
+        "name": "Batman Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/batman-universitesi-ebys "
+    },
+    "kkk-ebys": {
+        "name": "Kara Kuvvetleri Komutanlığı",
+        "url": "https://www.turkiye.gov.tr/kkk-ebys "
+    },
+    "istanbul-universitesi-ebys": {
+        "name": "İstanbul Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-universitesi-ebys "
+    },
+    "kutahya-dumlupinar-universitesi-ebys": {
+        "name": "Kütahya Dumlupınar Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kutahya-dumlupinar-universitesi-ebys "
+    },
+    "cukurova-uni-ebys": {
+        "name": "Çukurova Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/cukurova-uni-ebys "
+    },
+    "beykent-universitesi-ebys": {
+        "name": "İstanbul Beykent Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/beykent-universitesi-ebys "
+    },
+    "bezmialem-vakif-universitesi-ebys": {
+        "name": "Bezmialem Vakıf Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bezmialem-vakif-universitesi-ebys "
+    },
+    "izmir-bakircay-universitesi-ebys": {
+        "name": "İzmir Bakırçay Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/izmir-bakircay-universitesi-ebys "
+    },
+    "ataturk-universitesi-ebys": {
+        "name": "Atatürk Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ataturk-universitesi-ebys "
+    },
+    "darphane-ebys": {
+        "name": "Darphane ve Damga Matbaası GM",
+        "url": "https://www.turkiye.gov.tr/darphane-ebys "
+    },
+    "konya-teknik-universitesi-ebys": {
+        "name": "Konya Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/konya-teknik-universitesi-ebys "
+    },
+    "ankara-ticaret-odasi-elektronik-belge-yonetim-sistemi-evrak-dogrulama": {
+        "name": "Ankara Ticaret Odası",
+        "url": "https://www.turkiye.gov.tr/ankara-ticaret-odasi-elektronik-belge-yonetim-sistemi-evrak-dogrulama "
+    },
+    "bebka-ebys": {
+        "name": "Bursa Eskişehir Bilecik Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/bebka-ebys "
+    },
+    "tzob-ebys": {
+        "name": "Türkiye Ziraat Odaları Birliği Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tzob-ebys "
+    },
+    "mudanya-universitesi-ebys": {
+        "name": "Mudanya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/mudanya-universitesi-ebys "
+    },
+    "spk-ebys": {
+        "name": "Sermaye Piyasası Kurulu",
+        "url": "https://www.turkiye.gov.tr/spk-ebys "
+    },
+    "bist-ebys": {
+        "name": "Borsa İstanbul Anonim Şirketi GM",
+        "url": "https://www.turkiye.gov.tr/bist-ebys "
+    },
+    "hmb-ebys": {
+        "name": "Hazine ve Maliye Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/hmb-ebys "
+    },
+    "istanbul-kultur-universitesi-ebys": {
+        "name": "İstanbul Kültür Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-kultur-universitesi-ebys "
+    },
+    "ashb-ebys": {
+        "name": "Aile ve Sosyal Hizmetler Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ashb-ebys "
+    },
+    "afad-ebys": {
+        "name": "Afet ve Acil Durum Yönetimi Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/afad-ebys "
+    },
+    "toki-ebys": {
+        "name": "Toplu Konut İdaresi Başkanlığı (TOKİ)",
+        "url": "https://www.turkiye.gov.tr/toki-ebys "
+    },
+    "myk-ebys": {
+        "name": "Mesleki Yeterlilik Kurumu",
+        "url": "https://www.turkiye.gov.tr/myk-ebys "
+    },
+    "ssb-ebys": {
+        "name": "Savunma Sanayii Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ssb-ebys "
+    },
+    "tpao-ebys": {
+        "name": "Türkiye Petrolleri Anonim Ortaklığı GM",
+        "url": "https://www.turkiye.gov.tr/tpao-ebys "
+    },
+    "teias-ebys": {
+        "name": "Türkiye Elektrik İletim A.Ş. (TEİAŞ) GM",
+        "url": "https://www.turkiye.gov.tr/teias-ebys "
+    },
+    "tcdd-tasimacilik-ebys": {
+        "name": "TCDD Taşımacılık A.Ş. GM",
+        "url": "https://www.turkiye.gov.tr/tcdd-tasimacilik-ebys "
+    },
+    "sivil-havacilik-elektronik-belge-yonetim-sistemi-evrak-dogrulama": {
+        "name": "Sivil Havacılık GM",
+        "url": "https://www.turkiye.gov.tr/sivil-havacilik-elektronik-belge-yonetim-sistemi-evrak-dogrulama "
+    },
+    "necmettin-erbakan-ebys": {
+        "name": "Necmettin Erbakan Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/necmettin-erbakan-ebys "
+    },
+    "mke-ebys": {
+        "name": "Makine ve Kimya Endüstrisi Anonim Şirketi",
+        "url": "https://www.turkiye.gov.tr/mke-ebys "
+    },
+    "kdk-ebys": {
+        "name": "Kamu Denetçiliği Kurumu",
+        "url": "https://www.turkiye.gov.tr/kdk-ebys "
+    },
+    "tcdd-ebys": {
+        "name": "T.C. Devlet Demiryolları  GM",
+        "url": "https://www.turkiye.gov.tr/tcdd-ebys "
+    },
+    "dmo-ebys": {
+        "name": "Devlet Malzeme Ofisi GM",
+        "url": "https://www.turkiye.gov.tr/dmo-ebys "
+    },
+    "bartin-universitesi-ebys": {
+        "name": "Bartın Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bartin-universitesi-ebys "
+    },
+    "jandarma-ebys": {
+        "name": "Jandarma Genel Komutanlığı",
+        "url": "https://www.turkiye.gov.tr/jandarma-ebys "
+    },
+    "izka-ebys": {
+        "name": "İzmir Kalkınma Ajansı",
+        "url": "https://www.turkiye.gov.tr/izka-ebys "
+    },
+    "tvkkd-ebys": {
+        "name": "Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tvkkd-ebys "
+    },
+    "firat-universitesi-ebys": {
+        "name": "Fırat Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/firat-universitesi-ebys "
+    },
+    "ankara-universitesi-ebys": {
+        "name": "Ankara Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ankara-universitesi-ebys "
+    },
+    "avrupa-birligi-ebys": {
+        "name": "Avrupa Birliği Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/avrupa-birligi-ebys "
+    },
+    "ondokuz-mayis-universitesi-ebys": {
+        "name": "Ondokuz Mayıs Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ondokuz-mayis-universitesi-ebys "
+    },
+    "ogm-ebys": {
+        "name": "Orman GM",
+        "url": "https://www.turkiye.gov.tr/ogm-ebys "
+    },
+    "kutahya-saglik-bilimleri-universitesi-ebys": {
+        "name": "Kütahya Sağlık Bilimleri Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kutahya-saglik-bilimleri-universitesi-ebys "
+    },
+    "istanbul-ticaret-odasi-ebys": {
+        "name": "İstanbul Ticaret Odası",
+        "url": "https://www.turkiye.gov.tr/istanbul-ticaret-odasi-ebys "
+    },
+    "tapu-ve-kadastro-ebys": {
+        "name": "Tapu ve Kadastro GM",
+        "url": "https://www.turkiye.gov.tr/tapu-ve-kadastro-ebys "
+    },
+    "bik-ebys": {
+        "name": "Basın İlan Kurumu",
+        "url": "https://www.turkiye.gov.tr/bik-ebys "
+    },
+    "rekabet-ebys": {
+        "name": "Rekabet Kurumu",
+        "url": "https://www.turkiye.gov.tr/rekabet-ebys "
+    },
+    "tki-ebys": {
+        "name": "Türkiye Kömür İşletmeleri Kurumu GM",
+        "url": "https://www.turkiye.gov.tr/tki-ebys "
+    },
+    "vgm-ebys": {
+        "name": "Vakıflar GM",
+        "url": "https://www.turkiye.gov.tr/vgm-ebys "
+    },
+    "aduas-ebys": {
+        "name": "Ankara Doğal Elektrik Üretim ve Ticaret A.Ş. GM",
+        "url": "https://www.turkiye.gov.tr/aduas-ebys "
+    },
+    "ytb-ebys": {
+        "name": "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ytb-ebys "
+    },
+    "cda-ebys": {
+        "name": "Devlet Arşivleri Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/cda-ebys "
+    },
+    "inonu-universitesi-ebys": {
+        "name": "İnönü Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/inonu-universitesi-ebys "
+    },
+    "turksat-ebys": {
+        "name": "Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş.",
+        "url": "https://www.turkiye.gov.tr/turksat-ebys "
+    },
+    "afyon-kocatepe-universitesi-ebys": {
+        "name": "Afyon Kocatepe Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/afyon-kocatepe-universitesi-ebys "
+    },
+    "istanbul-ticaret-universitesi-ebys": {
+        "name": "İstanbul Ticaret Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-ticaret-universitesi-ebys "
+    },
+    "tokat-gaziosmanpasa-universitesi-ebys": {
+        "name": "Tokat Gaziosmanpaşa Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/tokat-gaziosmanpasa-universitesi-ebys "
+    },
+    "ordu-universitesi-ebys": {
+        "name": "Ordu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ordu-universitesi-ebys "
+    },
+    "karadeniz-teknik-universitesi-ebys": {
+        "name": "Karadeniz Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/karadeniz-teknik-universitesi-ebys "
+    },
+    "manisa-celal-bayar-universitesi-ebys": {
+        "name": "Manisa Celal Bayar Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/manisa-celal-bayar-universitesi-ebys "
+    },
+    "disisleri-bakanligi-ebys": {
+        "name": "Dışişleri Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/disisleri-bakanligi-ebys "
+    },
+    "dib-ebys": {
+        "name": "Diyanet İşleri Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/dib-ebys "
+    },
+    "saglik-bakanligi-ebys": {
+        "name": "Sağlık Başkanlığı EBYS",
+        "url": "https://www.turkiye.gov.tr/saglik-bakanligi-ebys "
+    },
+    "gumushane-universitesi-ebys": {
+        "name": "Gümüşhane Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/gumushane-universitesi-ebys "
+    },
+    "saglik-titck-ebys": {
+        "name": "Sağlık Başkanlığı TİTCK EBYS",
+        "url": "https://www.turkiye.gov.tr/saglik-titck-ebys "
+    },
+    "stb-ebys": {
+        "name": "Sanayi ve Teknoloji Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/stb-ebys "
+    },
+    "iller-bankasi-ebys": {
+        "name": "İller Bankası A.Ş.",
+        "url": "https://www.turkiye.gov.tr/iller-bankasi-ebys "
+    },
+    "mardin-artuklu-universitesi-ebys": {
+        "name": "Mardin Artuklu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/mardin-artuklu-universitesi-ebys "
+    },
+    "bogazici-universitesi-ebys": {
+        "name": "Boğaziçi Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bogazici-universitesi-ebys "
+    },
+    "dogus-universitesi-ebys": {
+        "name": "Doğuş Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/dogus-universitesi-ebys "
+    },
+    "ticaret-bakanligi-ebys": {
+        "name": "Ticaret Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ticaret-bakanligi-ebys "
+    },
+    "hvkk-dys": {
+        "name": "Hava Kuvvetleri Komutanlığı",
+        "url": "https://www.turkiye.gov.tr/hvkk-dys "
+    },
+    "tcmb-ebys": {
+        "name": "Türkiye Cumhuriyet Merkez Bankası",
+        "url": "https://www.turkiye.gov.tr/tcmb-ebys "
+    },
+    "karamanoglu-mehmetbey-universitesi-ebys": {
+        "name": "Karamanoğlu Mehmetbey Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/karamanoglu-mehmetbey-universitesi-ebys "
+    },
+    "kvkk-ebys": {
+        "name": "Kişisel Verileri Koruma Kurumu",
+        "url": "https://www.turkiye.gov.tr/kvkk-ebys "
+    },
+    "istanbul-cerrahpasa-universitesi-ebys": {
+        "name": "İstanbul Üniversitesi-Cerrahpaşa",
+        "url": "https://www.turkiye.gov.tr/istanbul-cerrahpasa-universitesi-ebys "
+    },
+    "yok-ebys": {
+        "name": "Yükseköğretim Kurulu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/yok-ebys "
+    },
+    "iskenderun-teknik-universitesi-ebys": {
+        "name": "İskenderun Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/iskenderun-teknik-universitesi-ebys "
+    },
+    "aydin-adnan-menderes-uni-ebys": {
+        "name": "Aydın Adnan Menderes Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/aydin-adnan-menderes-uni-ebys "
+    },
+    "hmku-ebys": {
+        "name": "Hatay Mustafa Kemal Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/hmku-ebys "
+    },
+    "mapeg-ebys": {
+        "name": "Maden ve Petrol İşleri GM",
+        "url": "https://www.turkiye.gov.tr/mapeg-ebys "
+    },
+    "ptt-ebys": {
+        "name": "PTT GM",
+        "url": "https://www.turkiye.gov.tr/ptt-ebys "
+    },
+    "meb-ebys": {
+        "name": "Milli Eğitim Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/meb-ebys "
+    },
+    "istanbul-teknik-universitesi-ebys": {
+        "name": "İstanbul Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-teknik-universitesi-ebys "
+    },
+    "istanbul-medipol-universitesi-ebys": {
+        "name": "İstanbul Medipol Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-medipol-universitesi-ebys "
+    },
+    "msku-ebys": {
+        "name": "Muğla Sıtkı Koçman Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/msku-ebys "
+    },
+    "yee-ebys": {
+        "name": "Yunus Emre Enstitüsü",
+        "url": "https://www.turkiye.gov.tr/yee-ebys "
+    },
+    "btk-ebys": {
+        "name": "Bilgi Teknolojileri ve İletişim Kurumu",
+        "url": "https://www.turkiye.gov.tr/btk-ebys "
+    },
+    "turkak-ebys": {
+        "name": "Türk Akreditasyon Kurumu",
+        "url": "https://www.turkiye.gov.tr/turkak-ebys "
+    },
+    "iskur-ebys": {
+        "name": "Türkiye İş Kurumu (İŞKUR)",
+        "url": "https://www.turkiye.gov.tr/iskur-ebys "
+    },
+    "gaziantep-universitesi-ebys": {
+        "name": "Gaziantep Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/gaziantep-universitesi-ebys "
+    },
+    "gelir-idaresi-ebys": {
+        "name": "Gelir İdaresi Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/gelir-idaresi-ebys "
+    },
+    "dzkk-ebys": {
+        "name": "Deniz Kuvvetleri Komutanlığı",
+        "url": "https://www.turkiye.gov.tr/dzkk-ebys "
+    },
+    "selcuk-universitesi-ebys": {
+        "name": "Selçuk Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/selcuk-universitesi-ebys "
+    },
+    "mersinuni-ebys": {
+        "name": "Mersin Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/mersinuni-ebys "
+    },
+    "epdk-ebys": {
+        "name": "Enerji Piyasası Düzenleme Kurumu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/epdk-ebys "
+    },
+    "hu-ebys": {
+        "name": "Hacettepe Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/hu-ebys "
+    },
+    "cbib-ebys": {
+        "name": "İletişim Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/cbib-ebys "
+    },
+    "pau-ebys": {
+        "name": "Pamukkale Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/pau-ebys "
+    },
+    "nigde-omer-halisdemir-universitesi-ebys": {
+        "name": "Niğde Ömer Halisdemir Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/nigde-omer-halisdemir-universitesi-ebys "
+    },
+    "tigem-ebys": {
+        "name": "Tarım İşletmeleri GM",
+        "url": "https://www.turkiye.gov.tr/tigem-ebys "
+    },
+    "atilim-universitesi-ebys": {
+        "name": "Atılım Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/atilim-universitesi-ebys "
+    },
+    "bayburt-universitesi-ebys": {
+        "name": "Bayburt Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/bayburt-universitesi-ebys "
+    },
+    "odtu-ebys": {
+        "name": "Orta Doğu Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/odtu-ebys "
+    },
+    "anadolu-universitesi-ebys": {
+        "name": "Anadolu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/anadolu-universitesi-ebys "
+    },
+    "cbyo-ebys": {
+        "name": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi",
+        "url": "https://www.turkiye.gov.tr/cbyo-ebys "
+    },
+    "erciyes-universitesi-ebys": {
+        "name": "Erciyes Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/erciyes-universitesi-ebys "
+    },
+    "istanbul-gedik-universitesi-ebys": {
+        "name": "İstanbul Gedik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/istanbul-gedik-universitesi-ebys "
+    },
+    "gebze-teknik-universitesi-ebys": {
+        "name": "Gebze Teknik Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/gebze-teknik-universitesi-ebys "
+    },
+    "halic-universitesi-ebys": {
+        "name": "Haliç Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/halic-universitesi-ebys "
+    },
+    "ege-universitesi-ebys": {
+        "name": "Ege Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/ege-universitesi-ebys "
+    },
+    "sutcu-imam-universitesi-ebys": {
+        "name": "Kahramanmaraş Sütçü İmam Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sutcu-imam-universitesi-ebys "
+    },
+    "tekirdag-namik-kemal-uni-ebys": {
+        "name": "Tekirdağ Namık Kemal Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/tekirdag-namik-kemal-uni-ebys "
+    },
+    "trakya-universitesi-ebys": {
+        "name": "Trakya Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/trakya-universitesi-ebys "
+    },
+    "kgm-ebys": {
+        "name": "Karayolları GM",
+        "url": "https://www.turkiye.gov.tr/kgm-ebys "
+    },
+    "isik-universitesi-ebys": {
+        "name": "Işık Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/isik-universitesi-ebys "
+    },
+    "akdeniz-universitesi-ebys": {
+        "name": "Akdeniz Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/akdeniz-universitesi-ebys "
+    },
+    "dicle-universitesi-ebys": {
+        "name": "Dicle Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/dicle-universitesi-ebys "
+    },
+    "siirt-universitesi-ebys": {
+        "name": "Siirt Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/siirt-universitesi-ebys "
+    },
+    "trt-ebys": {
+        "name": "TRT GM",
+        "url": "https://www.turkiye.gov.tr/trt-ebys "
+    },
+    "marmara-universitesi-ebys": {
+        "name": "Marmara Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/marmara-universitesi-ebys "
+    },
+    "tobb-universitesi-ebys": {
+        "name": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/tobb-universitesi-ebys "
+    },
+    "yasar-universitesi-ebys": {
+        "name": "Yaşar Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/yasar-universitesi-ebys "
+    },
+    "turkiye-barolar-birligi-ebys": {
+        "name": "Türkiye Barolar Birliği",
+        "url": "https://www.turkiye.gov.tr/turkiye-barolar-birligi-ebys "
+    },
+    "tihek-ebys": {
+        "name": "Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tihek-ebys "
+    },
+    "gsb-ebys": {
+        "name": "Gençlik ve Spor Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/gsb-ebys "
+    },
+    "csgb-ebys": {
+        "name": "Çalışma ve Sosyal Güvenlik Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/csgb-ebys "
+    },
+    "belbim-ebys": {
+        "name": "BELBİM Elektronik Para ve Ödeme Hizmetleri A.Ş.",
+        "url": "https://www.turkiye.gov.tr/belbim-ebys "
+    },
+    "dokuz-eylul-universitesi-ebys": {
+        "name": "Dokuz Eylül Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/dokuz-eylul-universitesi-ebys "
+    },
+    "msb-ebys": {
+        "name": "Millî Savunma Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/msb-ebys "
+    },
+    "ant-ebys": {
+        "name": "Akaryakıt İkmal ve Nato Pol Tesisleri İşletme (ANT) Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/ant-ebys "
+    },
+    "darica-belediyesi-ebys": {
+        "name": "Darıca Belediyesi",
+        "url": "https://www.turkiye.gov.tr/darica-belediyesi-ebys "
+    },
+    "siirt-belediyesi-ebys": {
+        "name": "Siirt Belediyesi",
+        "url": "https://www.turkiye.gov.tr/siirt-belediyesi-ebys "
+    },
+    "kocaeli-buyuksehir-belediyesi-ebys": {
+        "name": "Kocaeli Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kocaeli-buyuksehir-belediyesi-ebys "
+    },
+    "karabaglar-belediyesi-ebys": {
+        "name": "Karabağlar Belediyesi",
+        "url": "https://www.turkiye.gov.tr/karabaglar-belediyesi-ebys "
+    },
+    "esenler-belediyesi-ebys": {
+        "name": "Esenler Belediyesi",
+        "url": "https://www.turkiye.gov.tr/esenler-belediyesi-ebys "
+    },
+    "egm-ebys": {
+        "name": "Emniyet GM",
+        "url": "https://www.turkiye.gov.tr/egm-ebys "
+    },
+    "sabanci-universitesi-ebys": {
+        "name": "Sabancı Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sabanci-universitesi-ebys "
+    },
+    "kastamonu-universitesi-ebys": {
+        "name": "Kastamonu Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/kastamonu-universitesi-ebys "
+    },
+    "tarim-ve-orman-bakanligi-ebys": {
+        "name": "Tarım ve Orman Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/tarim-ve-orman-bakanligi-ebys "
+    },
+    "uab-ebys": {
+        "name": "Ulaştırma ve Altyapı Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/uab-ebys "
+    },
+    "turkiye-sigorta-ebys": {
+        "name": "Türkiye Sigorta A.Ş.",
+        "url": "https://www.turkiye.gov.tr/turkiye-sigorta-ebys "
+    },
+    "kadikoy-belediyesi-ebys": {
+        "name": "Kadıköy Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kadikoy-belediyesi-ebys "
+    },
+    "kecioren-belediyesi-ebys": {
+        "name": "Keçiören Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kecioren-belediyesi-ebys "
+    },
+    "iski-ebys": {
+        "name": "İstanbul Su ve Kanalizasyon İdaresi GM",
+        "url": "https://www.turkiye.gov.tr/iski-ebys "
+    },
+    "meram-belediyesi-ebys": {
+        "name": "Meram Belediyesi",
+        "url": "https://www.turkiye.gov.tr/meram-belediyesi-ebys "
+    },
+    "silivri-belediyesi-ebys-genel-basvuru": {
+        "name": "Silivri Belediyesi",
+        "url": "https://www.turkiye.gov.tr/silivri-belediyesi-ebys-genel-basvuru "
+    },
+    "beylikduzu-belediyesi-ebys-genel-basvuru": {
+        "name": "Beylikdüzü Belediyesi",
+        "url": "https://www.turkiye.gov.tr/beylikduzu-belediyesi-ebys-genel-basvuru "
+    },
+    "cankaya-belediyesi-ebys": {
+        "name": "Çankaya Belediyesi",
+        "url": "https://www.turkiye.gov.tr/cankaya-belediyesi-ebys "
+    },
+    "sincan-belediyesi-ebys": {
+        "name": "Sincan Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sincan-belediyesi-ebys "
+    },
+    "yenimahalle-belediyesi-ebys": {
+        "name": "Yenimahalle Belediyesi",
+        "url": "https://www.turkiye.gov.tr/yenimahalle-belediyesi-ebys "
+    },
+    "konak-belediyesi-ebys": {
+        "name": "Konak Belediyesi",
+        "url": "https://www.turkiye.gov.tr/konak-belediyesi-ebys "
+    },
+    "catalca-belediyesi-ebys": {
+        "name": "Çatalca Belediyesi",
+        "url": "https://www.turkiye.gov.tr/catalca-belediyesi-ebys "
+    },
+    "beldeas-ebys": {
+        "name": "Belde A.Ş.",
+        "url": "https://www.turkiye.gov.tr/beldeas-ebys "
+    },
+    "tuzla-belediyesi-ebys": {
+        "name": "Tuzla Belediyesi",
+        "url": "https://www.turkiye.gov.tr/tuzla-belediyesi-ebys "
+    },
+    "hatay-buyuksehir-belediyesi-ebys": {
+        "name": "Hatay Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/hatay-buyuksehir-belediyesi-ebys "
+    },
+    "umraniye-belediyesi-ebys": {
+        "name": "Ümraniye Belediyesi",
+        "url": "https://www.turkiye.gov.tr/umraniye-belediyesi-ebys "
+    },
+    "bursa-buyuksehir-belediyesi-ebys": {
+        "name": "Bursa Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/bursa-buyuksehir-belediyesi-ebys "
+    },
+    "izmir-ebys": {
+        "name": "İzmir Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/izmir-ebys "
+    },
+    "atasehir-belediyesi-ebys": {
+        "name": "Ataşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/atasehir-belediyesi-ebys "
+    },
+    "kayseri-buyuksehir-belediyesi-ebys": {
+        "name": "Kayseri Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kayseri-buyuksehir-belediyesi-ebys "
+    },
+    "sanliurfa-buyuksehir-belediyesi-ebys": {
+        "name": "Şanlıurfa Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sanliurfa-buyuksehir-belediyesi-ebys "
+    },
+    "sariyer-belediyesi-ebys": {
+        "name": "Sarıyer Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sariyer-belediyesi-ebys "
+    },
+    "gaziosmanpasa-belediyesi-ebys": {
+        "name": "Gaziosmanpaşa Belediyesi",
+        "url": "https://www.turkiye.gov.tr/gaziosmanpasa-belediyesi-ebys "
+    },
+    "maltepe-belediyesi-ebys": {
+        "name": "Maltepe Belediyesi",
+        "url": "https://www.turkiye.gov.tr/maltepe-belediyesi-ebys "
+    },
+    "beykoz-belediyesi-ebys": {
+        "name": "Beykoz Belediyesi",
+        "url": "https://www.turkiye.gov.tr/beykoz-belediyesi-ebys "
+    },
+    "kars-belediyesi-ebys": {
+        "name": "Kars Belediyesi",
+        "url": "https://www.turkiye.gov.tr/kars-belediyesi-ebys "
+    },
+    "zonguldak-belediyesi-ebys": {
+        "name": "Zonguldak Belediyesi",
+        "url": "https://www.turkiye.gov.tr/zonguldak-belediyesi-ebys "
+    },
+    "golbasi-ebys": {
+        "name": "Ankara Gölbaşı Belediyesi",
+        "url": "https://www.turkiye.gov.tr/golbasi-ebys "
+    },
+    "nevu-ebys": {
+        "name": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/nevu-ebys "
+    },
+    "koc-universitesi-ebys": {
+        "name": "Koç Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/koc-universitesi-ebys "
+    },
+    "baibu-ebys": {
+        "name": "Bolu Abant İzzet Baysal Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/baibu-ebys "
+    },
+    "icisleri-ebys": {
+        "name": "İçişleri Başkanlığı",
+        "url": "https://www.turkiye.gov.tr/icisleri-ebys "
+    },
+    "sdu-ebys": {
+        "name": "Süleyman Demirel Üniversitesi",
+        "url": "https://www.turkiye.gov.tr/sdu-ebys "
+    },
+    "kosgeb-bilgi-edinme-bavurularnn-alnmas-3884": {
+        "name": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı (KOSGEB)",
+        "url": "https://www.turkiye.gov.tr/kosgeb-bilgi-edinme-bavurularnn-alnmas-3884 "
+    },
+    "buyukcekmece-belediyesi-ebys": {
+        "name": "Büyükçekmece Belediyesi",
+        "url": "https://www.turkiye.gov.tr/buyukcekmece-belediyesi-ebys "
+    },
+    "tekirdag-buyuksehir-belediyesi-ebys": {
+        "name": "Tekirdağ Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/tekirdag-buyuksehir-belediyesi-ebys "
+    },
+    "hatay-buyuksehir-belediyesi-ebys-basvuru-e-dilekce": {
+        "name": "Hatay Büyükşehir Belediyesi",
+        "url": "https://www.turkiye.gov.tr/hatay-buyuksehir-belediyesi-ebys-basvuru-e-dilekce "
+    },
+    "sisli-belediyesi-ebys": {
+        "name": "Şişli Belediyesi",
+        "url": "https://www.turkiye.gov.tr/sisli-belediyesi-ebys "
+    },
+    "bilgilendirme?konu=sikcaSorulanlar": {
+        "name": "Sıkça Sorulan Sorular",
+        "url": "https://www.turkiye.gov.tr/bilgilendirme?konu=sikcaSorulanlar "
+    }
+}
