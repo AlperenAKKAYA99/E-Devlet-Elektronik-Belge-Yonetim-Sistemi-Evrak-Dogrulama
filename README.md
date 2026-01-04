@@ -39,7 +39,7 @@ python app.py
 ```
 #### Sunucu varsayılan olarak http://127.0.0.1:5000 adresinde çalışmaya başlayacaktır.
 
-#📡 API Kullanımı
+# 📡 API Kullanımı
 ## 1. Kurum Listesini Getir
 Sisteme tanımlı kurumları listeler.
 URL: /api/institutions
