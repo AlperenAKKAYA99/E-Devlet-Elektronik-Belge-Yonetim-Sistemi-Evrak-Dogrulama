@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gelişmiş Belge Doğrulama</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #eef2f5; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .card { background: white; padding: 2.5rem; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); width: 450px; }
+        h2 { text-align: center; color: #2c3e50; margin-bottom: 1.5rem; }
+        .form-group { margin-bottom: 1.2rem; }
+        label { display: block; margin-bottom: 0.5rem; font-weight: 600; color: #34495e; }
+        
+        /* Standart inputlar */
+        input { width: 100%; padding: 0.8rem; border: 1px solid #cbd5e0; border-radius: 6px; box-sizing: border-box; font-size: 1rem; transition: border 0.3s; }
+        input:focus { border-color: #3498db; outline: none; }
+        
+        /* Buton Stilleri */
+        button { width: 100%; padding: 1rem; background: #e31e24; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 1rem; font-weight: bold; transition: background 0.3s; }
+        button:hover { background: #c0392b; }
+        button:disabled { background: #bdc3c7; cursor: not-allowed; }
+        
+        /* Captcha Kutusu */
+        #captcha-box { 
+            text-align: center; margin-bottom: 1rem; min-height: 80px; 
+            background-color: #f8f9fa; border-radius: 6px; 
+            display: flex; justify-content: center; align-items: center; padding: 5px; border: 1px dashed #cbd5e0;
+        }
+        #captcha-box img { height: 60px; width: auto; border: 2px solid #333; border-radius: 4px; }
+        
+        .loading { display: none; text-align: center; margin-top: 1rem; color: #7f8c8d; font-weight: 500; }
+        .error { color: #e74c3c; font-size: 0.9rem; margin-top: 15px; text-align: center; background: #fadbd8; padding: 10px; border-radius: 4px; display: none; }
+
+        /* Select2 Özelleştirme (Modern Görünüm) */
+        .select2-container .select2-selection--single {
+            height: 45px !important;
+            border: 1px solid #cbd5e0 !important;
+            border-radius: 6px !important;
+            display: flex;
+            align-items: center;
+        }
+        .select2-selection__arrow { height: 44px !important; }
+        .select2-results__option { padding: 8px 10px; }
+        .select2-selection__clear {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>Belge Doğrulama Paneli</h2>
+    
+    <div class="form-group">
+        <label>Kurum Arayınız ve Seçiniz:</label>
+        <select id="institutionSelect" style="width: 100%;">
+            <option></option> </select>
+    </div>
+
+    <div id="loadingArea" style="text-align: center; padding: 20px; display: none;">
+        <div style="font-size: 24px;">🔄</div>
+        <p>Sistem başlatılıyor...</p>
+    </div>
+    
+    <div id="form-area" style="display: none;">
+        <div class="form-group">
+            <label>Doğrulama Kodu:</label>
+            <input type="text" id="barkod" placeholder="Belge üzerindeki kodu giriniz...">
+        </div>
+
+        <div class="form-group">
+            <label>Güvenlik Kodu:</label>
+            <div id="captcha-box"></div>
+            <input type="text" id="captcha" placeholder="Resimdeki kodu giriniz" autocomplete="off">
+        </div>
+
+        <button onclick="sorgula()" id="btnSubmit">BELGEYİ SORGULA VE İNDİR</button>
+    </div>
+
+    <div id="status" class="loading">İşlem yapılıyor, lütfen bekleyiniz...</div>
+    <div id="err-msg" class="error"></div>
+</div>
+
+<script>
+    let currentSessionId = "";
+
+    $(document).ready(function() {
+        // 1. Sayfa yüklendiğinde Select2'yi başlat
+        $('#institutionSelect').select2({
+            placeholder: "Bir kurum adı yazınız (Örn: Sağlık Bakanlığı)",
+            allowClear: false,
+            language: {
+                noResults: function() {
+                    return "Sonuç bulunamadı";
+                },
+                searching: function() {
+                    return "Aranıyor...";
+                }
+            }
+        });
+
+        // 2. Kurum listesini API'den çek
+        loadInstitutions();
+
+        // 3. Seçim yapıldığında loadSession fonksiyonunu tetikle
+        $('#institutionSelect').on('select2:select', function (e) {
+            const selectedKey = e.params.data.id;
+            loadSession(selectedKey);
+        });
+    });
+
+    async function loadInstitutions() {
+    try {
+        const res = await fetch('http://127.0.0.1:5000/api/institutions');
+        const institutions = await res.json();
+        
+        const select = $('#institutionSelect');
+        select.empty();
+        select.append('<option></option>');
+
+        for (const [key, val] of Object.entries(institutions)) {
+            select.append(new Option(val.name, key));
+        }
+
+        // ❌ change TETİKLEME YOK
+    } catch(e) {
+        alert("Kurum listesi yüklenemedi.");
+    }
+}
+
+
+    // Seçilen kuruma göre oturum başlat (Captcha getir)
+    async function loadSession(key) {
+        if(!key) return;
+
+        const loadingDiv = document.getElementById('loadingArea');
+        const formDiv = document.getElementById('form-area');
+        const captchaBox = document.getElementById('captcha-box');
+        
+        formDiv.style.display = 'none';
+        loadingDiv.style.display = 'block';
+        loadingDiv.innerHTML = '<div style="font-size: 24px;">🌍</div><p>Kurum sayfasına bağlanılıyor...</p>';
+        captchaBox.innerHTML = "";
+
+        try {
+            const response = await fetch(`http://127.0.0.1:5000/api/start-session?key=${key}`);
+            const data = await response.json();
+            
+            if(data.status) {
+                currentSessionId = data.session_id;
+                captchaBox.innerHTML = `<img src="${data.captcha_image}">`;
+                loadingDiv.style.display = 'none';
+                formDiv.style.display = 'block';
+            } else {
+                loadingDiv.innerHTML = "<span style='color:red'>Hata: " + data.error + "</span>";
+            }
+        } catch (e) {
+            loadingDiv.innerHTML = "<span style='color:red'>Bağlantı Hatası. Sunucuyu kontrol edin.</span>";
+        }
+    }
+
+    async function sorgula() {
+        const barkod = document.getElementById('barkod').value;
+        const captcha = document.getElementById('captcha').value;
+        const btn = document.getElementById('btnSubmit');
+        const status = document.getElementById('status');
+        const errDiv = document.getElementById('err-msg');
+
+        if(!barkod || !captcha) { alert("Lütfen barkod ve güvenlik kodunu giriniz."); return; }
+
+        btn.disabled = true;
+        status.style.display = 'block';
+        errDiv.style.display = 'none';
+
+        try {
+            const response = await fetch('http://127.0.0.1:5000/api/query', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    session_id: currentSessionId,
+                    barkod: barkod,
+                    captcha_code: captcha
+                })
+            });
+
+            const result = await response.json();
+
+            if(result.status) {
+                status.innerText = "✅ Başarılı! İndiriliyor...";
+                downloadPDF(result.file_data, "Dogrulanmis_Belge.pdf");
+                setTimeout(() => { 
+                    if(confirm("İndirme başladı. Sayfayı yenileyip yeni sorgu yapmak ister misiniz?")) {
+                        location.reload(); 
+                    }
+                }, 2000);
+            } else {
+                errDiv.innerText = result.error;
+                errDiv.style.display = 'block';
+                btn.disabled = false;
+                status.style.display = 'none';
+                
+                if(result.error.includes("Oturum") || result.error.includes("Tarayıcı")) { 
+                    alert("Oturum zaman aşımına uğradı, sayfa yenileniyor."); 
+                    location.reload(); 
+                }
+            }
+        } catch (e) {
+            errDiv.innerText = "Sistem Hatası: " + e;
+            errDiv.style.display = 'block';
+            btn.disabled = false;
+        }
+    }
+
+    function downloadPDF(base64Data, fileName) {
+        const linkSource = `data:application/pdf;base64,${base64Data}`;
+        const downloadLink = document.createElement("a");
+        downloadLink.href = linkSource;
+        downloadLink.download = fileName;
+        downloadLink.click();
+    }
+</script>
+
+</body>
+</html>
