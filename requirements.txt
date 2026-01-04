@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+selenium
+webdriver-manager
+requests
+pypdf
+Pillow
